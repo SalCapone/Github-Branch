@@ -1,3 +1,2 @@
 This is the main project
-
-This is an addition to the main project
+The main project update
